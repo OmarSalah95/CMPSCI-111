@@ -161,7 +161,7 @@ public class Main {
                     + "\nYou're " + plyrWins + " for " + (sysWins + plyrWins + draws)
                     + "\nCome back to the CS house of games soon.\n\n"
                 : sysWins > plyrWins
-                    ? "Dealer wins! System had " + (sysGuess + 21)
+                    ? "Dealer wins! System had " + sysGuess
                     : "Congratulations you won!");
 
     }
