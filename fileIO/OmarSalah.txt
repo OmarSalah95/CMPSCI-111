@@ -1,0 +1,2 @@
+This is a simple string in a file to be appended:
+This is a string that has been appended to the bottom of the file
